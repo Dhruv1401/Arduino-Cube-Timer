@@ -15,7 +15,7 @@ It can be used as a stopwatch also.
 
 # Wiring 
 • LCD's Wiring : SCL Pin to A5 , SDA Pin to A4 , VCC to 5V , GND to GND. (Refer  <a href="">Video</a>)<br>
-• Push Button's Wiring : One Side to D2 , Other Side to GND. (Refer <a href="">Video</a> <a href="">Video</a>)<br>
+• Push Button's Wiring : One Side to D2 , Other Side to GND. (Refer <a href="">Video</a>)<br>
  # FAQ / Recurring Issues related to project.
  
  1. LCD is not displaying text. What to do?<br>

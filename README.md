@@ -17,3 +17,8 @@ It can be used as a stopwatch also.
 • LCD's Wiring : SCL Pin to A5 , SDA Pin to A4 , VCC to 5V , GND to GND. (Refer Video)<br>
 • Push Button's Wiring : One Side to D2 , Other Side to GND. (Refer Video)<br>
  # <a href="">Video</a>
+<br>
+ # FAQ
+ 
+ 1. LCD is not displaying text. What to do?<br>
+ Ans) Just keeping pressing push button , adjust SDA and SCL wires , if issue persists <a href="https://forum.arduino.cc/t/i2c-lcd-doesnt-display-text-solved/600002">>click here.</a>

@@ -31,4 +31,4 @@ It can be used as a stopwatch also.
  
  # Contact Me
  Discord = Dhruv Jadav#1620
- Instagram = <a href="https://www.instagram.com/dhruv.jadav.1417/">dhruv.jadav.1417></a>
+ Instagram = <a href="https://www.instagram.com/dhruv.jadav.1417/">dhruv.jadav.1417</a>

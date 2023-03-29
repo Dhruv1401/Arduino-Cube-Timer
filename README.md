@@ -29,4 +29,6 @@ It can be used as a stopwatch also.
  <br>
  Other FAQ Questions and answers coming soon.
  
- 
+ # Contact Me
+ Discord = Dhruv Jadav#1620
+ Instagram = <a href="https://www.instagram.com/dhruv.jadav.1417/"dhruv.jadav.1417></a>

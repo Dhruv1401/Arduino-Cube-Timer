@@ -6,7 +6,7 @@ It can be used as a stopwatch also.
 <br>
 # Materials Required <br>
 • Arduino Nano<br>
-• LCD i2c<br><br>
+• LCD i2c<br>
 • Push Button<br>
 • Jumper Wires<br>
 • Breadboard<br>
